@@ -1,8 +1,19 @@
 # 📊 Análise de DRE e Bridge (Waterfall)
 
-Este projeto apresenta um **dashboard interativo para análise de DRE** e variação de resultados (bridge ou waterfall), baseado em **dados fictícios** do curso Xperiun. O design foi prototipado no **Figma**, e o relatório foi construído no **Power BI** usando **DAX avançado** e **formatações por referência**. É uma solução de alto nível com foco em insights estratégicos, usabilidade e eficiência.
+Este projeto apresenta um **dashboard interativo para análise de DRE** e variação de resultados (bridge ou waterfall), baseado em **dados fictícios** do curso Xperiun. 
+
+O design foi prototipado no **Figma**, e o relatório foi construído no **Power BI** usando **DAX avançado** e **formatações por referência**. 
+
+É uma solução de alto nível com foco em insights estratégicos, usabilidade e eficiência.
 
 ---
+
+🚀 **Click abaixo e veja meu Dashboard publicado**:  
+
+[![Abrir no Power BI](https://img.shields.io/badge/Abrir%20no%20Power%20BI-%2300AC47?logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiMDU0YzUxMmYtMTdmMC00YWM2LWJkMTQtZGIxODIwYmFhYTM1IiwidCI6ImY2YmMxMjk5LTVkMDEtNDRhNS1iZWU5LWE2YTNiYjhkYjQwNSJ9)
+
+
+----
 ## 🛠️ Tecnologias utilizadas
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-FFDC00?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -22,9 +33,18 @@ Este projeto apresenta um **dashboard interativo para análise de DRE** e varia�
 
 ---
 
-##  Visualização
-> Insira capturas de tela do dashboard abaixo para exemplificar o resultado final.  
-> ```markdown
-> ![Visão Geral](images/preview_overview.png)
-> ![Bridge (Waterfall)](images/preview_waterfall.png)
+
+##  ⏭️ Imagem dos dashboards
+
+>  
+>  ![Visão Geral](DRE1.png)
+> *Demonstração detalhada do Resultado do Exercício com cálculo de margens.*
+> 
+> ![Bridge (Waterfall)](DRE2.png)
+> *Análise visual das variações entre períodos ou categorias de custos/receitas.*
 > ```
+
+
+## 👩‍💻 Autora
+**Bruna Colares** — Analista de Dados | Controladoria | Finanças | Custos  
+- - LinkedIn: *[(https://www.linkedin.com/in/bruna-zordenoni)*
